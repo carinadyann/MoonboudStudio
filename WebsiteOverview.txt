@@ -1,0 +1,97 @@
+🌙 Moonbound Studio – Client Site Overview
+
+Welcome to the private documentation for Moonbound Studio, a custom-built website for Sierra — a digital artist and storyteller.
+
+This overview explains the structure, design, and purpose of the site in clear, non-technical language.
+
+✨ Purpose of the Site
+
+The Moonbound Studio website is Sierra’s central hub for sharing:
+
+Her digital artwork
+The original characters and stories behind each piece
+A schedule of upcoming shows and events
+An online storefront
+A contact form for fans, questions, and commissions
+The site is meant to reflect Sierra’s whimsical, rich aesthetic — creating an immersive experience that blends art and storytelling.
+
+🗂️ Website Structure
+
+🏠 Home
+The landing page introduces visitors to Moonbound Studio with featured artwork and quick navigation.
+Includes:
+
+Highlight art
+Visual and textual mood-setting
+Navigation to shop, portfolio, and character sections
+🖋️ About (Meet the Artist)
+A personalized page introducing Sierra.
+Includes:
+
+Short bio and background
+Artistic inspiration
+Optional studio photo, fun facts, or a favorite quote
+🎨 Portfolio
+A visual gallery of Sierra’s finished digital artwork.
+Includes:
+
+Clean, simple layout with large previews
+Categories (by series, characters, or themes)
+Optional lightbox or zoom view
+🌙 Character Guide
+A directory of original characters. Each entry includes:
+
+Character name and portrait
+A short backstory or lore snippet
+A link to view paintings featuring this character
+📅 Schedule
+A list of upcoming shows and convention appearances.
+Includes:
+
+Event name
+Date and time
+Location (with map link, if possible)
+Optional past events gallery or photo carousel
+🛒 Shop
+Landing page for Sierra’s store. Links to external shop (like Etsy).
+Can include:
+
+Custom shop title (e.g. “The Curio Stand” or “Moonbound Market”)
+Featured products
+Product previews
+📬 Contact
+A themed contact form for:
+
+Commission requests
+General questions
+Fan messages
+Fields:
+
+Name
+Email
+Message
+Optional dropdown (e.g., "Commission", "Question", "Just Saying Hi!")
+Custom submit button text (e.g., “Send the Raven”, “Whisper to the Woods”)
+🎨 Aesthetic Notes
+
+Color Palette: Dark, enchanted with pink accents and subtle turquoise
+Style: Maximalist touches with frames and dark garden motifs
+Typography: Elegant, readable fonts
+Hover Effects: Pink highlights on images and menu items
+Layout: Spacious, visual-first, mobile-friendly
+🌟 Possible Future Additions
+
+Newsletter or email list
+Blog or lore journal
+Behind-the-scenes (WIP) gallery
+Filterable artwork view
+Deeper character pages with art/story combos
+💌 Credits & Contact
+
+Website for:
+Sierra / Moonbound Studio
+All artwork and stories © Sierra
+
+Developed by:
+[Carina Adrianzen]
+[cadrianzen31@cox.net]
